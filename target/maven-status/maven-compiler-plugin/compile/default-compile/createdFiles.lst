@@ -1,0 +1,17 @@
+com/mycompany/dpatcode/refined/SecureHardwareDecorator.class
+com/mycompany/dpatcode/simpler/Hardware.class
+com/mycompany/dpatcode/simpler/Franchise.class
+com/mycompany/dpatcode/refined/Hardware.class
+com/mycompany/dpatcode/refined/FranchiseManager.class
+com/mycompany/dpatcode/refined/SecurityObserver.class
+com/mycompany/dpatcode/refined/HardwareFactory.class
+com/mycompany/dpatcode/simpler/FranchiseManager.class
+com/mycompany/dpatcode/refined/FranchiseObserver.class
+com/mycompany/dpatcode/refined/Software.class
+com/mycompany/dpatcode/refined/Franchise.class
+com/mycompany/dpatcode/DPATCode.class
+com/mycompany/dpatcode/simpler/Software.class
+com/mycompany/dpatcode/refined/Main.class
+com/mycompany/dpatcode/refined/ServerHardware.class
+com/mycompany/dpatcode/refined/WorkstationHardware.class
+com/mycompany/dpatcode/simpler/Main.class
